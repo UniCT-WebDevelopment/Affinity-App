@@ -1,0 +1,49 @@
+    .Home{
+    background-color:#eccbdf
+    }
+    .button-logout {
+        justify-content:flex-end; 
+        float:right;
+        margin-right:50px;
+        bottom: 50px;
+    
+    }
+
+    .Home .button-logout button{
+        background-color: #f50091!important;
+        margin-top: 20px!important;
+    }
+
+    .search-button button{
+        background-color: #f50091!important;
+        text-align: center;
+        width: 11%;
+        padding: 20px 0;
+        border-radius: 100px;
+    }
+
+    .search-button {
+        text-align: center;
+    
+    }
+    .MuiBadge-root.avatar-badge{
+        margin-left: 647px;
+
+    }
+    .sidenav---sidenav---_2tBP{
+        background-color: #f50091;
+
+    }
+    img.MuiAvatar-img{
+        width:auto;
+    }
+    @media screen and (max-width: 1024px) {
+        .MuiBadge-root.avatar-badge {
+            margin-left: 370px;
+        }
+    }
+
+
+
+
+  

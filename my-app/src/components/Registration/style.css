@@ -1,0 +1,42 @@
+
+    .container {
+       padding: 20px;
+       height:70vh;
+       width:280px;
+       height: auto;
+       margin:20px auto;
+       text-align: -webkit-center;
+
+    }
+    .registration .avatar{
+        background-color: #f50091!important;
+        width: 120px!important;
+        height: 50px!important;
+    }
+
+    .registration .button-signup {
+        background-color:#f50091!important;
+        margin:30px auto!important
+    }
+    .registration a{
+        margin-left:4px;
+        color:#f50091
+
+    }
+    .registration a:hover {
+        color: blue;}
+    
+    label.MuiFormLabel-root.radio-buttons-label{
+        margin-top: 10px;
+        margin-bottom: 0;
+        }
+
+    .MuiFormControl-root.MuiTextField-root.MuiFormControl-fullWidth{
+            margin-top: 2px;
+        }
+    .gender {
+        float: left;
+        width: 70%;
+        padding-right: 100px;}
+    
+        button:focus{outline: 0;}

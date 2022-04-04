@@ -1,0 +1,30 @@
+   .User{
+      text-align: center;   
+      background-color: #eccbdf
+   }
+
+   .User .back{
+      font-size: xx-large;   
+      color: #f50091;
+      margin-bottom:10px;
+   }
+   .User span{
+      font-size: xx-large;   
+      color: #f50091;
+      margin-bottom:5px;
+   }
+
+   .User .user-error{
+      margin-top: 10px;
+   }
+
+   .MuiDataGrid-columnHeaders.css-okt5j6-MuiDataGrid-columnHeaders{
+      color: #f50091  
+   }
+
+   .grid-user{
+   width: 50%;
+   margin:auto;
+   background-color:white;
+   margin-top: 50px;
+   }

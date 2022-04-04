@@ -1,0 +1,20 @@
+   .Interest{
+      text-align: center;   
+      background-color: #eccbdf
+   }
+
+   .Interest .back{
+   margin-top: 0px;
+   font-size: large;
+   color: #f50091;
+   }
+
+   .Interest .search-button button{
+      margin-bottom: 20px;
+   }
+   
+   .Interest .title-interest{
+      font-size: xx-large;   
+      color: #f50091;
+   
+   }

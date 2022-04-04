@@ -1,0 +1,24 @@
+    .profile{
+        background-color: #eccbdf
+    }
+
+    .profile .avatar{
+        background-color: #f50091!important;
+        width: 120px!important;
+        height: 50px!important;
+    }
+
+    .profile .button-profile {
+        background-color:#f50091!important;
+        margin:30px auto!important
+    }
+
+    a:hover {
+        color:#f50091;
+    }
+
+    .profile .back{
+        color: #f50091;
+    }
+ 
+    

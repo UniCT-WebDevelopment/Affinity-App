@@ -1,0 +1,30 @@
+
+   .login .container {
+       padding: 20px;
+       height:auto;
+       width:280px;
+       margin:20px auto;
+       text-align: -webkit-center;
+
+    }
+    .login .avatar{
+        background-color: #f50091!important;
+        width: 120px!important;
+        height: 50px!important;
+    }
+
+    .login .button-access {
+        background-color:#f50091!important;
+        margin:30px auto!important
+    }
+    .login a{
+        margin-left:4px;
+        color:#f50091
+
+    }
+    .login a:hover {
+        color: blue;
+    }
+
+    button:focus{outline: 0;}
+   
