@@ -44,6 +44,10 @@ Avviare il progetto seguendo i seguenti passaggi:
 * Clonare il repository GIT
 * Installare la piattaforma XAMPP/MAMPP
 * Creare un Database chiamato "affinity"
+* Creare le tabelle:
+    * **users** con i campi name, email, phone, gender, età, password, città, provincia, foto, nickname, language;
+    * **interest** con il campo name;
+    * **interests_users** con i campi id_users, id_interest che conterrà gli interessi di ogni utente.
 *  Modificare il file .env di esempio modificando i parametri di accesso al Database.
 * Aprire il terminale e spostarsi dentro la cartella apiLaravel/example-app e lanciare i seguenti comandi:
     * install composer
